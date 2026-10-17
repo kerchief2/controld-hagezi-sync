@@ -66,17 +66,17 @@ Combined    = [
   "Badware Hoster",
   "Most Abused TLDs",
   "No Safesearch Support",
-  "Referral Allow"
-  "META Tracker Allow"
-  "Apple PR allow"
-  "Apple Tracker" 
-  "Amazon Tracker"
-  "Huawei Tracker" 
-  "Kown Issues allow"
-  "Microsoft Tracker"
-  "Microsoft Tracker Allow"
-  "Samsung Tracker"
-  "Spam IDNS"
-  "TikTok Tracker"
+  "Referral Allow",
+  "META Tracker Allow",
+  "Apple PR allow",
+  "Apple Tracker",
+  "Amazon Tracker",
+  "Huawei Tracker",
+  "Kown Issues allow",
+  "Microsoft Tracker",
+  "Microsoft Tracker Allow",
+  "Samsung Tracker",
+  "Spam IDNS",
+  "TikTok Tracker",
   "Xiaomi Tracker" 
 ]
