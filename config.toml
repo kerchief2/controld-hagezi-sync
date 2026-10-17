@@ -40,6 +40,19 @@ names = ["Tesla", "Kids", "Friends", "Adults"]
 "No Safesearch Support"  = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/nosafesearch-folder.json"
 "Referral Allow" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/referral-allow-folder.json"
 "META Tracker Allow"     = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/meta-tracker-allow-folder.json"
+"Apple PR allow" = "https://github.com/hagezi/dns-blocklists/blob/main/controld/apple-private-relay-allow-folder.json"
+"Apple Tracker" = "https://github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-apple-folder.json"
+"Amazon Tracker" = "https://github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-amazon-folder.json"
+"Huawei Tracker" = "https://github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-huawei-folder.json"
+"Kown Issues allow" = "https://github.com/hagezi/dns-blocklists/blob/main/controld/ultimate-known_issues-allow-folder.json"
+"Microsoft Tracker" = "https://github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-microsoft-folder.json"
+"Microsoft Tracker Allow" = "https://github.com/hagezi/dns-blocklists/blob/main/controld/microsoft-allow-folder.json"
+"Samsung Tracker" = "https://github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-samsung-folder.json"
+"Spam IDNS" = "https://github.com/hagezi/dns-blocklists/blob/main/controld/spam-idns-folder.json"
+"TikTok Tracker" = "https://github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-tiktok-folder.json"
+"Xiaomi Tracker" = "https://github.com/hagezi/dns-blocklists/blob/main/controld/native-tracker-xiaomi-folder.json"
+
+
 
 # =============================================================================
 # PROFILE → FOLDER MAPPINGS
@@ -49,22 +62,21 @@ names = ["Tesla", "Kids", "Friends", "Adults"]
 # =============================================================================
 
 [profile_folders]
-Tesla   = ["Badware Hoster", "Most Abused TLDs"]
-Kids    = [
+Combined    = [
   "Badware Hoster",
   "Most Abused TLDs",
   "No Safesearch Support",
   "Referral Allow"
-]
-Friends = [
-  "Badware Hoster",
-  "Most Abused TLDs",
-  "Referral Allow",
   "META Tracker Allow"
-]
-Adults  = [
-  "Badware Hoster",
-  "Most Abused TLDs",
-  "Referral Allow",
-  "META Tracker Allow"
+  "Apple PR allow"
+  "Apple Tracker" 
+  "Amazon Tracker"
+  "Huawei Tracker" 
+  "Kown Issues allow"
+  "Microsoft Tracker"
+  "Microsoft Tracker Allow"
+  "Samsung Tracker"
+  "Spam IDNS"
+  "TikTok Tracker"
+  "Xiaomi Tracker" 
 ]
