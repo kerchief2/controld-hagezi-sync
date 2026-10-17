@@ -45,10 +45,10 @@ names = ["Combined"]
 "Huawei Tracker" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-huawei-folder.json"
 "Known Issues allow" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/ultimate-known_issues-allow-folder.json"
 "Microsoft Tracker" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-microsoft-folder.json"
-"Microsoft Tracker Allow" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/microsoft-allow-folder.json"
+"Microsoft Tracker allow" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/microsoft-allow-folder.json"
 "Samsung Tracker" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-samsung-folder.json"
-"Spam IDNS" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-idns-folder.json"
-"TikTok Tracker" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-tiktok-folder.json"
+"Spam IDNs" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-idns-folder.json"
+"Tiktok Tracker" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-tiktok-folder.json"
 "Xiaomi Tracker" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-xiaomi-folder.json"
 
 
@@ -72,9 +72,9 @@ Combined    = [
   "Huawei Tracker",
   "Known Issues allow",
   "Microsoft Tracker",
-  "Microsoft Tracker Allow",
+  "Microsoft Tracker allow",
   "Samsung Tracker",
-  "Spam IDNS",
-  "TikTok Tracker",
+  "Spam IDNs",
+  "Tiktok Tracker",
   "Xiaomi Tracker" 
 ]
