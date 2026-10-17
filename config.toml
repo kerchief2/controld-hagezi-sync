@@ -47,11 +47,8 @@ names = ["Combined"]
 "Microsoft Tracker" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-microsoft-folder.json"
 "Microsoft Tracker allow" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/microsoft-allow-folder.json"
 "Samsung Tracker" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-samsung-folder.json"
-"Spam IDNs" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-idns-folder.json"
 "Tiktok Tracker" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-tiktok-folder.json"
 "Xiaomi Tracker" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-xiaomi-folder.json"
-
-
 
 # =============================================================================
 # PROFILE → FOLDER MAPPINGS
@@ -74,7 +71,6 @@ Combined    = [
   "Microsoft Tracker",
   "Microsoft Tracker allow",
   "Samsung Tracker",
-  "Spam IDNs",
   "Tiktok Tracker",
   "Xiaomi Tracker" 
 ]
