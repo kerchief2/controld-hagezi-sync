@@ -43,7 +43,7 @@ names = ["Combined"]
 "Apple Tracker" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-apple-folder.json"
 "Amazon Tracker" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-amazon-folder.json"
 "Huawei Tracker" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-huawei-folder.json"
-"Kown Issues allow" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/ultimate-known_issues-allow-folder.json"
+"Known Issues allow" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/ultimate-known_issues-allow-folder.json"
 "Microsoft Tracker" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-microsoft-folder.json"
 "Microsoft Tracker Allow" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/microsoft-allow-folder.json"
 "Samsung Tracker" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-samsung-folder.json"
@@ -70,7 +70,7 @@ Combined    = [
   "Apple Tracker",
   "Amazon Tracker",
   "Huawei Tracker",
-  "Kown Issues allow",
+  "Known Issues allow",
   "Microsoft Tracker",
   "Microsoft Tracker Allow",
   "Samsung Tracker",
