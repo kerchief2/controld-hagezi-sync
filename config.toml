@@ -37,7 +37,6 @@ names = ["Combined"]
 [folders]
 "Badware Hoster"         = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/badware-hoster-folder.json"
 "Most Abused TLDs"       = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-combined-folder.json"
-"No Safesearch Support"  = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/nosafesearch-folder.json"
 "Referral Allow" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/referral-allow-folder.json"
 "META Tracker Allow"     = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/meta-tracker-allow-folder.json"
 "Apple PR allow" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/apple-private-relay-allow-folder.json"
@@ -65,7 +64,6 @@ names = ["Combined"]
 Combined    = [
   "Badware Hoster",
   "Most Abused TLDs",
-  "No Safesearch Support",
   "Referral Allow",
   "META Tracker Allow",
   "Apple PR allow",
